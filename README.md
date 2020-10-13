@@ -17,6 +17,7 @@ GitHub - jnory/MyShogiImages (https://github.com/jnory/MyShogiImages) に含ま�
 
     $ cd images/
     $ cp -pv <ファイル名>.png <MyShogiのインストール先>/image/
+    $ cp -pv setting_dialog/<ファイル名>.png <MyShogiのインストール先>/image/setting_dialog/
 
 ## ライセンス
 
