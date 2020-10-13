@@ -20,6 +20,18 @@ GitHub - jnory/MyShogiImages (https://github.com/jnory/MyShogiImages) に含ま�
     $ cp -pv game_effect/<ファイル名>.png <MyShogiのインストール先>/image/game_effect/
     $ cp -pv setting_dialog/<ファイル名>.png <MyShogiのインストール先>/image/setting_dialog/
 
+## 注意事項
+
+下記画像ファイルは、[GitHub - jnory/MyShogiImages](https://github.com/jnory/MyShogiImages) にも存在します。
+本レポジトリのファイル、または、[GitHub - jnory/MyShogiImages](https://github.com/jnory/MyShogiImages) の
+どちらかの画像しか使用することができません。
+
+| ファイル名 |
+----
+| tatami_v1_1920_1080.png  |
+| turn_v1_1057_157.png |
+| turn_v1_106_43.png |
+
 ## ライセンス
 
 [cc0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)
