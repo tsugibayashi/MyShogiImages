@@ -17,6 +17,7 @@ GitHub - jnory/MyShogiImages (https://github.com/jnory/MyShogiImages) に含ま�
 
     $ cd images/
     $ cp -pv <ファイル名>.png <MyShogiのインストール先>/image/
+    $ cp -pv game_effect/<ファイル名>.png <MyShogiのインストール先>/image/game_effect/
     $ cp -pv setting_dialog/<ファイル名>.png <MyShogiのインストール先>/image/setting_dialog/
 
 ## ライセンス
@@ -33,5 +34,6 @@ GitHub - jnory/MyShogiImages (https://github.com/jnory/MyShogiImages) に含ま�
 
 * [GitHub - jnory/MyShogiImages](https://github.com/jnory/MyShogiImages)
 * [『将棋神やねうら王』のオープンソース版MyShogiをLinux Mint 19.1でビルドしてみた件](http://hennohito.cocolog-nifty.com/blog/2019/03/post-3ed3.html)
+* [『将棋神やねうら王』のアップデート手順をわかりやすく](http://yaneuraou.yaneu.com/2018/09/09/%E3%80%8E%E5%B0%86%E6%A3%8B%E7%A5%9E%E3%82%84%E3%81%AD%E3%81%86%E3%82%89%E7%8E%8B%E3%80%8F%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E6%89%8B%E9%A0%86%E3%82%92%E3%82%8F%E3%81%8B/)
 
 以上
