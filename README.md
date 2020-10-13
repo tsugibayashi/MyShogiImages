@@ -27,7 +27,7 @@ GitHub - jnory/MyShogiImages (https://github.com/jnory/MyShogiImages) に含ま�
 どちらかの画像しか使用することができません。
 
 | ファイル名 |
-----
+----|
 | tatami_v1_1920_1080.png  |
 | turn_v1_1057_157.png |
 | turn_v1_106_43.png |
