@@ -28,6 +28,11 @@ GitHub - jnory/MyShogiImages (https://github.com/jnory/MyShogiImages) に含ま�
 
 | ファイル名 | 説明 |
 ----|----
+| board_v1_1920_1080.png | 将棋盤の画像1 |
+| koma_bako_v1_1920_1080.png | 駒箱の画像 |
+| komadai_v1_1920_1080.png | 駒台の画像1 |
+| komadai_v2_1920_1080.png | 駒台の画像2 |
+| piece_v1_776_636.png | 二文字駒 |
 | tatami_v1_1920_1080.png  | 背景画像1 |
 | turn_v1_1057_157.png | 手番を表す画像(大) |
 | turn_v1_106_43.png | 手番を表す画像(小) |
@@ -39,6 +44,8 @@ GitHub - jnory/MyShogiImages (https://github.com/jnory/MyShogiImages) に含ま�
 ## 画像中のフォント
 
 * [IPAゴシック](https://moji.or.jp/ipafont/)。ライセンスは、https://moji.or.jp/ipafont/license に記載されています。
+
+* [IPA明朝](https://moji.or.jp/ipafont/)。ライセンスは、https://moji.or.jp/ipafont/license に記載されています。
 
 ## 参考資料
 
