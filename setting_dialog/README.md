@@ -2,14 +2,14 @@
 
 | ファイル名 | メニュー | タブ名 | 設定項目 | 設定値 |
 ----|----|----|----|----
-| tatami_image_ver_1.png | 設定->表示設定 | 畳 | 畳画像 | 薄い |
-| tatami_image_ver_2.png | 設定->表示設定 | 畳 | 畳画像 | 濃い |
 | tatami_color_type_0.png | 設定->表示設定 | 畳 | 畳の色味 | オリジナル |
 | tatami_color_type_1.png | 設定->表示設定 | 畳 | 畳の色味 | 少し暗く |
 | tatami_color_type_2.png | 設定->表示設定 | 畳 | 畳の色味 | 暗く |
 | tatami_color_type_3.png | 設定->表示設定 | 畳 | 畳の色味 | キャラメル |
 | tatami_color_type_4.png | 設定->表示設定 | 畳 | 畳の色味 | 古めの畳 |
 | tatami_color_type_5.png | 設定->表示設定 | 畳 | 畳の色味 | 新しめの畳 |
+| tatami_image_ver_1.png | 設定->表示設定 | 畳 | 畳画像 | 薄い |
+| tatami_image_ver_2.png | 設定->表示設定 | 畳 | 畳画像 | 濃い |
 
 ## ライセンス
 
