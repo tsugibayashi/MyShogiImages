@@ -38,6 +38,7 @@ GitHub - jnory/MyShogiImages (https://github.com/jnory/MyShogiImages) に含ま�
 | number_v1_22_954.png | 先手のときの段の画像(標準) |
 | number_v1_873_19.png | 先手のときの筋の画像(標準) |
 | piece_v1_776_636.png | 二文字駒の画像 |
+| promote_dialog.png | 成・不成を選択する画面の画像 |
 | tatami_v1_1920_1080.png | 畳(薄い) の画像 |
 | turn_v1_1057_157.png | 手番を表す画像(大) |
 | turn_v1_106_43.png | 手番を表す画像(小) |
@@ -64,6 +65,7 @@ GitHub - jnory/MyShogiImages (https://github.com/jnory/MyShogiImages) に含ま�
 | piece_v1_776_636.png | 二文字駒の画像 |
 | piece_v2_776_636.png | 一文字駒の画像 |
 | piece_v3_776_636.png | 英文字駒の画像 |
+| promote_dialog.png | 成・不成を選択する画面の画像 |
 | tatami_v1_1920_1080.png | 畳(薄い) の画像 |
 | tatami_v2_1920_1080.png | 畳(濃い) の画像 |
 | turn_v1_1057_157.png | 手番を表す画像(大) |
