@@ -20,30 +20,6 @@ GitHub - jnory/MyShogiImages (https://github.com/jnory/MyShogiImages) に含ま�
     $ cp -pv game_effect/<ファイル名>.png <MyShogiのインストール先>/image/game_effect/
     $ cp -pv setting_dialog/<ファイル名>.png <MyShogiのインストール先>/image/setting_dialog/
 
-## 注意事項
-
-下記画像ファイルは、[GitHub - jnory/MyShogiImages](https://github.com/jnory/MyShogiImages) にも存在します。
-本レポジトリのファイル、または、[GitHub - jnory/MyShogiImages](https://github.com/jnory/MyShogiImages) の
-どちらかの画像しか使用することができません。
-
-| ファイル名 | 説明 |
-----|----
-| board_v1_1920_1080.png | 将棋盤(白) の画像 |
-| koma_bako_v1_1920_1080.png | 駒箱(大)の画像 |
-| koma_bako_v2_1920_1080.png | 駒箱(小)の画像 |
-| komadai_v1_1920_1080.png | 駒台(大) の画像 |
-| komadai_v2_1920_1080.png | 駒台(小) の画像 |
-| name_plate_v1_1920_1080.png | 対局者名 の画像 |
-| number_v1Rev_22_954.png | 後手のときの段の画像(標準) |
-| number_v1Rev_873_19.png | 後手のときの筋の画像(標準) |
-| number_v1_22_954.png | 先手のときの段の画像(標準) |
-| number_v1_873_19.png | 先手のときの筋の画像(標準) |
-| piece_v1_776_636.png | 二文字駒の画像 |
-| promote_dialog.png | 成・不成を選択する画面の画像 |
-| tatami_v1_1920_1080.png | 畳(薄い) の画像 |
-| turn_v1_1057_157.png | 手番を表す画像(大) |
-| turn_v1_106_43.png | 手番を表す画像(小) |
-
 ## 各画像ファイルの説明
 
 | ファイル名 | 説明 |
@@ -82,6 +58,30 @@ GitHub - jnory/MyShogiImages (https://github.com/jnory/MyShogiImages) に含ま�
 * [IPAゴシック](https://moji.or.jp/ipafont/)。ライセンスは、https://moji.or.jp/ipafont/license に記載されています。
 
 * [IPA明朝](https://moji.or.jp/ipafont/)。ライセンスは、https://moji.or.jp/ipafont/license に記載されています。
+
+## 注意事項
+
+下記画像ファイルは、[GitHub - jnory/MyShogiImages](https://github.com/jnory/MyShogiImages) にも存在します。
+本レポジトリのファイル、または、[GitHub - jnory/MyShogiImages](https://github.com/jnory/MyShogiImages) の
+どちらかの画像しか使用することができません。
+
+| ファイル名 | 説明 |
+----|----
+| board_v1_1920_1080.png | 将棋盤(白) の画像 |
+| koma_bako_v1_1920_1080.png | 駒箱(大)の画像 |
+| koma_bako_v2_1920_1080.png | 駒箱(小)の画像 |
+| komadai_v1_1920_1080.png | 駒台(大) の画像 |
+| komadai_v2_1920_1080.png | 駒台(小) の画像 |
+| name_plate_v1_1920_1080.png | 対局者名 の画像 |
+| number_v1Rev_22_954.png | 後手のときの段の画像(標準) |
+| number_v1Rev_873_19.png | 後手のときの筋の画像(標準) |
+| number_v1_22_954.png | 先手のときの段の画像(標準) |
+| number_v1_873_19.png | 先手のときの筋の画像(標準) |
+| piece_v1_776_636.png | 二文字駒の画像 |
+| promote_dialog.png | 成・不成を選択する画面の画像 |
+| tatami_v1_1920_1080.png | 畳(薄い) の画像 |
+| turn_v1_1057_157.png | 手番を表す画像(大) |
+| turn_v1_106_43.png | 手番を表す画像(小) |
 
 ## 参考資料
 

@@ -56,8 +56,8 @@
 | picked_move_to_style_3.png | 升 | 駒を掴んだ時の移動候補の升 | パターン3 |
 | picked_move_to_style_4.png | 升 | 駒を掴んだ時の移動候補の升 | パターン4 |
 | picked_move_to_style_5.png | 升 | 駒を掴んだ時の移動候補の升 | パターン5 |
-| promote_dialog_style_0.png | ダイアログ | 後手側(相手側)の成り・不成ダイアログを上下反転させる>か | しない |
-| promote_dialog_style_1.png | ダイアログ | 後手側(相手側)の成り・不成ダイアログを上下反転させる>か | する |
+| promote_dialog_style_0.png | ダイアログ | 後手側(相手側)の成り・不成ダイアログを上下反転させるか | しない |
+| promote_dialog_style_1.png | ダイアログ | 後手側(相手側)の成り・不成ダイアログを上下反転させるか | する |
 | turn_style_0.png | 手番 | 手番側の表現 | なし |
 | turn_style_1.png | 手番 | 手番側の表現 | 手番マーク |
 | turn_style_2.png | 手番 | 手番側の表現 | 名前を赤字 |
