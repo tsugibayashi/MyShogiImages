@@ -82,8 +82,10 @@
 | game_greeting_effect_style_1.png | エフェクト | 対局開始・終了エフェクト | あり |
 | game_piece_toss_effect_0.png | エフェクト | 振り駒のエフェクト | なし |
 | game_piece_toss_effect_1.png | エフェクト | 振り駒のエフェクト | あり |
-| eval_sign_style_0.png | 評価値 | 後手番のCPUの評価値をどちらから見た値にするか | |
-| eval_jugdement_style_0.png | 評価値 | 形勢を評価値のところに表示する(次の局面以降有効) | |
+| eval_sign_style_0.png | 評価値 | 後手番のCPUの評価値をどちらから見た値にするか | 後手側 |
+| eval_sign_style_0.png | 評価値 | 後手番のCPUの評価値をどちらから見た値にするか | 先手側 |
+| eval_jugdement_style_0.png | 評価値 | 形勢を評価値のところに表示する(次の局面以降有効) | 表示しない |
+| eval_jugdement_style_0.png | 評価値 | 形勢を評価値のところに表示する(次の局面以降有効) | 表示する |
 
 (2) 設定->操作設定 の画像
 

@@ -62,8 +62,8 @@ GitHub - jnory/MyShogiImages (https://github.com/jnory/MyShogiImages) に含ま�
 ## 注意事項
 
 下記画像ファイルは、[GitHub - jnory/MyShogiImages](https://github.com/jnory/MyShogiImages) にも存在します。
-本レポジトリのファイル、または、[GitHub - jnory/MyShogiImages](https://github.com/jnory/MyShogiImages) の
-どちらかの画像しか使用することができません。
+
+本レポジトリのファイル、または、[GitHub - jnory/MyShogiImages](https://github.com/jnory/MyShogiImages) のどちらかの画像しか使用することができません。
 
 | ファイル名 | 説明 |
 ----|----
