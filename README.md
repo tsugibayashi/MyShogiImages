@@ -40,6 +40,7 @@ GitHub - jnory/MyShogiImages (https://github.com/jnory/MyShogiImages) に含ま�
 | number_v2Rev_873_19.png | 後手のときの筋の画像(Chess式) |
 | number_v2_22_954.png | 先手のときの段の画像(Chess式) |
 | number_v2_873_19.png | 先手のときの筋の画像(Chess式) |
+| piece_atk_v1_776_424.png | 駒の移動方向の画像 |
 | piece_v1_776_636.png | 二文字駒の画像 |
 | piece_v2_776_636.png | 一文字駒の画像 |
 | piece_v3_776_636.png | 英文字駒の画像 |
