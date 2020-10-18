@@ -27,6 +27,7 @@ GitHub - jnory/MyShogiImages (https://github.com/jnory/MyShogiImages) に含ま�
 | board_v1_1920_1080.png | 将棋盤(白) の画像 |
 | board_v2_1920_1080.png | 将棋盤(黄) の画像 |
 | engine_init.png | 思考エンジン初期化中 の画像 |
+| hand_number_v1_864_96.png | 持駒数を表す画像 |
 | koma_bako_v1_1920_1080.png | 駒箱(大)の画像 |
 | koma_bako_v2_1920_1080.png | 駒箱(小)の画像 |
 | komadai_v1_1920_1080.png | 駒台(大) の画像 |
